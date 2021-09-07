@@ -1,7 +1,7 @@
 ﻿/*
  * Description:     A basic PONG simulator
- * Author:           
- * Date:            
+ * Author: Ted Angus
+ * Date:            7/09/2021
  */
 
 #region libraries
